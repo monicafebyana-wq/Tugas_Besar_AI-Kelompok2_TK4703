@@ -1,6 +1,7 @@
 # **Klasifikasi Tingkat Kematangan Tomat Berbasis Pengenalan Pola Citra Digital Menggunakan Algoritma K-Nearest Neighbors (KNN)**
 
-Kelompok 2:
+Kelompok 2
+
 Kelas: TK 47-03
 
 - Cheyza Amanda Syafira (101032300081)
